@@ -23,7 +23,7 @@
 ### Day 2: December 30th, 2016
 ##### It continues
 
-**Today's Progress**: Guilty! I didn't commit yesterday but I did make progress from the day prior! I learned about [some open public APIs](https://github.com/toddmotto/public-apis) which I may consider using. 
+**Today's Progress**: Guilty! I didn't commit yesterday but I did make progress from the day prior! I learned about [some open public APIs](https://github.com/toddmotto/public-apis) which I may consider using. I finally managed to get webpack and Babel working for client side ES6.
 
 **Thoughts:** 
 
