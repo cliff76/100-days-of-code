@@ -28,5 +28,5 @@
 **Thoughts:** 
 
 **Link to work:** [Project repo](https://github.com/cliff76/100dayscraig)
-[Azure Deployment](http://100dayscraig.azurewebsites.net) Doesn't currently render! (Please don't spam the site!)
+[Azure Deployment](http://100dayscraig.azurewebsites.net) It renders!
 
