@@ -30,3 +30,14 @@
 **Link to work:** [Project repo](https://github.com/cliff76/100dayscraig)
 [Azure Deployment](http://100dayscraig.azurewebsites.net) It renders!
 
+### Day 3: December 31st, 2016
+##### If you build it, will they come?
+
+**Today's Progress**: Mostly project structure changes and refactoring. I managed to integrate gulp for managing the build of both client and server pieces. I plan to continue refining the build until I get things in a way that make me feel productive.
+
+**Thoughts:** 
+webpack, vs, npm, vs gulp... So many ways to build a JS project. I only started with webpack because I want to learn how to use ES6 for client side stuff as I start re-learning ReactJS. I'm mostly familiar with gulp and npm. I've started delegating npm build script targets to my gulpfile and I want to get the whole hot file reloading for development. I need to be careful because each push triggers a redeploy of my Azure server. Also I have many dev dependencies listed as general dependencies. I need to keep this for now until I learn more about continuously deploying nodeJS on Azure.
+
+**Link to work:** [Project repo](https://github.com/cliff76/100dayscraig)
+[Azure Deployment](http://100dayscraig.azurewebsites.net) It renders still! (I think!)
+
