@@ -41,3 +41,14 @@ webpack, vs, npm, vs gulp... So many ways to build a JS project. I only started 
 **Link to work:** [Project repo](https://github.com/cliff76/100dayscraig)
 [Azure Deployment](http://100dayscraig.azurewebsites.net) It renders still! (I think!)
 
+### Day 4: December 31st, 2016
+##### Tic Attack Toe?
+
+**Today's Progress**: I struggled through a React Tic tac Toe example.
+
+**Thoughts:** 
+Barely got this working before 12am
+
+**Link to work:** [Project repo](https://github.com/cliff76/100dayscraig)
+[Azure Deployment](http://100dayscraig.azurewebsites.net) It renders still! (I think!)
+
