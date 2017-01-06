@@ -41,13 +41,25 @@ webpack, vs, npm, vs gulp... So many ways to build a JS project. I only started 
 **Link to work:** [Project repo](https://github.com/cliff76/100dayscraig)
 [Azure Deployment](http://100dayscraig.azurewebsites.net) It renders still! (I think!)
 
-### Day 4: December 31st, 2016
+### Day 4: January 3rd, 2017
 ##### Tic Attack Toe?
 
 **Today's Progress**: I struggled through a React Tic tac Toe example.
 
 **Thoughts:** 
 Barely got this working before 12am
+
+**Link to work:** [Project repo](https://github.com/cliff76/100dayscraig)
+[Azure Deployment](http://100dayscraig.azurewebsites.net) It renders still! (I think!)
+
+
+### Day 5: January 5th, 2017
+##### Tic Attack Toe?
+
+**Today's Progress**: I struggled through a React Todo app example. I also investigated how to work custom deployment on Azure. The custom deploy scripts are local and have not yet been pushed. I'll tackle Azure this weekend.
+
+**Thoughts:** 
+Faking the funk! I've been missing days and not making much progress. My log is looking abysmal as I've taken on two significant challenges for the year. The 1st and more important challenge is my Bible study which is also at risk of slipping. Add my day job and kids to the mix and its a wonder I can find time to set reminders for Alexa by asking Google to tell Siri about it! I spent most of my time re-learning REact/Redux as well as webpack, gulp, while tinkering with Yarn. I spend more time learning than coding but it's all in the same spirit. I'm hoping that pattern changes soon as I pick up speed.
 
 **Link to work:** [Project repo](https://github.com/cliff76/100dayscraig)
 [Azure Deployment](http://100dayscraig.azurewebsites.net) It renders still! (I think!)
