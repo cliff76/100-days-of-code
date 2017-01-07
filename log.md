@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 5: January 5th, 2017
-##### Tic Attack Toe?
+##### Todo or not Todo? That WAS the question!
 
 **Today's Progress**: I struggled through a React Todo app example. I also investigated how to work custom deployment on Azure. The custom deploy scripts are local and have not yet been pushed. I'll tackle Azure this weekend.
 
