@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+### Day 7: January 8th, 2017
+##### I wanna do open source!
+
+**Today's Progress**: Leading by example
+
+**Thoughts:** 
+After seeing Scooter's latest push I decided it was time to pull the trigger. I blogged my idea and attempted to submit the PR only to be hit with a merge conflict due to her latest changes. I redid the pull request along with my blog entry then pinged her over DM to get her thoghts. I honestly felt like she was gonna cuss me for poking around in her repo without asking and doing her homework for her! (Just kidding!) She warmly welcomed my contribution because that's what this whole game is about anyway!
+
+**Link to work:** [The story](https://codeforfun.wordpress.com/2017/01/09/getting-into-open-source/)
+
+### Day 6: January 7th, 2017
+##### Can I do open source?
+
+**Today's Progress**: I created a pull request example for our Twitter group
+
+**Thoughts:** 
+I had a long discussion in our Twitter group after listening to folks dream about eventually getting involved in open source. I tried to tell everyone how much the are already involved then the discussion inspired me to give a concrete example. Using [@Scooter Phoenix](https://twitter.com/ScooterPhoenix) as the poster child of open source, I secretly enhanced her work. I saw her blog was slightly ahead of her repository so I decided to hold back a day before submitting my secret pull request surprise.
+
+**Link to work:** [Project repo](https://github.com/techmom215/tipcalc/commit/50f09426b2e53740d2b34d6980baec11295019c7)
+
 ### Day 5: January 5th, 2017
 ##### Todo or not Todo? That WAS the question!
 
