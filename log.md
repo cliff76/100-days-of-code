@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 8: January 10th, 2017
+##### I wanna do open source!
+
+**Today's Progress**: Client-server woes
+
+**Thoughts:** 
+I addded server side data logic to my react todo example and stretched my wings a bit. I couldn't get the server to accurately report all additions and deletes but it's coming along regardless. It sorta works but it's very sloppy.
+
+**Link to work:** [Project repo](https://github.com/cliff76/100dayscraig)
+
 ### Day 7: January 8th, 2017
 ##### I wanna do open source!
 
