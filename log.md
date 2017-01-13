@@ -1,7 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 9: January 12th, 2017
+##### Taking it easy!
+
+**Today's Progress**: Keep it moving!
+
+**Thoughts:** 
+I needed something simple to do tonight because it was an extremely busy day. I went back to Javascript30 and did day 2, the CSS clock. I really need to up my style game for what's to come so this is right on time.
+
 ### Day 8: January 10th, 2017
-##### I wanna do open source!
+##### Over-react to my server
 
 **Today's Progress**: Client-server woes
 
