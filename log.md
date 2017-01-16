@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 10: January 15th, 2017
+##### I've been slacking!
+
+**Today's Progress**:
+I finally forced myself to sit and refactor my build a bit so I could get hot-reloading going. I also broke out an explicit build and clean task and tried to optimize building only modified files with gulp-newer.
+
+**Thoughts:** 
+ I'm not familiar with some of these tools and I have suspicions on how well they will work together but we'll see. I need to get some TDD going next so I can begin some real rapid dev work.
+
 ### Day 9: January 12th, 2017
 ##### Taking it easy!
 
