@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 11: January 21th, 2017
+##### I've been REALLY slacking!
+
+**Today's Progress**:
+I worked through an example using Couchbase mobile on Android. I also started this project by implementing a vanilla dependency injection technique and a "simplest thing that works" mentality.
+
+**Thoughts:** 
+I'm itching to understand more about modeling with modern NoSQL DBMS systems. I'm also trying to refamiliarize with this particular technology after spending a good amount of time building hybrid app technology. I'm most proud of my methodology around dependency injection. I reminded myself that I don't need fancy Dagger/RoboGuice frameworks and resisted the urge to brew any glorified home-grown annotation processors. I inject using a dependency injector factory which returns an interface. Here I was tempted to read the root object and look for @Inject annotations via reflection, instead I implement the interface with a SimpleDependencyInjector that knows all about the app and simply casts the root object to the concrete type. That makes it unusable in any other app but because this is just an example to get my feet wet with Couchbase I don't need anything that fancy. Moreover, because my app depends on just the factory and interface I can easily swap in RoboGuice, Dagger, or anything without losing sleep.
+
 ### Day 10: January 15th, 2017
 ##### I've been slacking!
 
